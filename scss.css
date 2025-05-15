@@ -1,0 +1,98 @@
+* {
+  margin: 0;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.wol, .will {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 20px;
+}
+
+.color {
+  color: #4F5665;
+  border: none;
+  background-color: white;
+}
+
+.butt {
+  background-color: white;
+  border: none;
+}
+
+.sign {
+  width: 100px;
+  height: 35px;
+  color: #F53855;
+  border: 2px solid #F53855;
+  border-radius: 100px;
+  background-color: white;
+}
+
+.get {
+  width: 160px;
+  height: 50px;
+  background-color: #F53838;
+  color: #FFFFFF;
+  border-radius: 6px;
+  border: none;
+}
+
+.wilo {
+  border-left: 2px solid #EEEFF2;
+  border-right: 2px solid #EEEFF2;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.well {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+
+.text {
+  text-align: center;
+}
+
+.fery {
+  border: 2px solid #EEEFF2;
+  text-align: center;
+  padding: 50px;
+}
+
+.wil {
+  display: flex;
+  justify-content: space-around;
+}
+
+.bord {
+  border: 2px solid #DDDDDD;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.px {
+  padding-top: 25px;
+}
+
+.will {
+  position: relative;
+  top: 60px;
+  left: 140px;
+  width: 80%;
+  background-color: white;
+  padding: 10px;
+  display: flex;
+  border-radius: 10px;
+}
+
+.bg {
+  background-color: #F8F8F8;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 100px;
+}/*# sourceMappingURL=scss.css.map */
